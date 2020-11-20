@@ -13,11 +13,11 @@ public class Challenge {
 		//start your coding here  
      
         //echo = "Hello "+name;
-           
+             
 
 		///}   
  
-                System.out.println(echo);
-                scanner.close();
+       System.out.println(echo);
+       scanner.close();
 	} 
 } 
